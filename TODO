@@ -1,0 +1,11 @@
+1. Enter Pincode [DONE]
+
+2. Exit the program if 3 times failed upon entering the wrong pin [DONE]
+
+3. Features:
+-   Balance Inquiry
+-   Withdraw Cash
+-   Transfer Money
+-   Change Pin
+-   Pay Bills
+-   Deposit Money
