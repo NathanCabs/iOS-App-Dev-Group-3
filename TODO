@@ -3,9 +3,12 @@
 2. Exit the program if 3 times failed upon entering the wrong pin [DONE]
 
 3. Features:
--   Balance Inquiry
--   Withdraw Cash
--   Transfer Money
--   Change Pin
--   Pay Bills
--   Deposit Money
+
+- Main Menu/ Dashboard which will include the features below [DONE]
+-   Balance Inquiry [DONE]
+-   Withdraw Cash [DONE]
+-   Transfer Money []
+-   Change Pin []
+-   Pay Bills []
+-   Deposit Money [DONE]
+-   Exit/Logout Feature that will retain the new balance and new pin []
